@@ -1,13 +1,10 @@
-package com.devskiller;
+package com.devTest;
 
 public class validator {
 
     public static void main(String[] args) {
 
-        //public String validate (String a){
         String a="(1+3)(2+4)";
-        //String[] str_arr = a.split("\\(");
-            // Put your code here
             int contIzq = 0;
             int contParentDer = 0;
             char temp;
